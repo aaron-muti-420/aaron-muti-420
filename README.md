@@ -7,4 +7,4 @@ This is the place where I open source stuff and break things :rofl:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-muti-420)](https://github.com/aaron-muti-420/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-4201&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
