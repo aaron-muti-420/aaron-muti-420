@@ -3,7 +3,12 @@ This is the place where I open source stuff and break things :rofl:
 
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Flutter, Go and React
+- 🌱 I’m currently learning Flutter,
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaron-muti-420)](https://github.com/aaron-muti-420/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaron-muti-420&label=Profile%20views&color=0e75b6&style=flat" alt="aaron-muti-420" /> </p>
@@ -11,8 +16,4 @@ This is the place where I open source stuff and break things :rofl:
 ### I spend most of the time scripting in 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
