@@ -23,4 +23,6 @@ You can view my coding activity and statistics on my WakaTime dashboard:
 
 [![WakaTime Dashboard](https://wakatime.com/badge/user/aaron_muti_420.svg)](https://wakatime.com/@aaron_muti_420)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
