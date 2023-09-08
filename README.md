@@ -1,9 +1,9 @@
-# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> This is Wings 420
+# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> This is Aaron Wings
 This is the place where I open source stuff and break things :rofl:
 
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently Scripting
   
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -18,7 +18,7 @@ This is the place where I open source stuff and break things :rofl:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
 ### My WakaTime Dashboard
-Working on it it will soon apear 
+Working on it!  will soon appear 
 You can view my coding activity and statistics on my WakaTime dashboard:
 
 [![WakaTime Dashboard](https://wakatime.com/badge/user/aaron_muti_420.svg)](https://wakatime.com/@aaron_muti_420)
