@@ -18,11 +18,6 @@ This is the place where I open source stuff and break things :rofl:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
 ### My WakaTime Dashboard
-Working on it!  will soon appear 
+Working on it!  will soon appear i promise 
 You can view my coding activity and statistics on my WakaTime dashboard:
-
-[![WakaTime Dashboard](https://wakatime.com/badge/user/aaron_muti_420.svg)](https://wakatime.com/@aaron_muti_420)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
