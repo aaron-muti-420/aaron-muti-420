@@ -14,7 +14,7 @@ This is the place where I open source stuff and break things :rofl:
 ## I am currently learning Flutter and Dart
 
 <a href="https://github.com/aaron-muti-420/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ndhlovu1&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-muti-420&show_icons=true&theme=radical" />
 </a>
 
 ### I spend most of the time scripting in 
