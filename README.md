@@ -20,6 +20,7 @@ This is the place where I open source stuff and break things :rofl:
 
 ### My WakaTime Dashboard
 [View my Wakatime Dashboard](https://wakatime.com/@aaron_muti_420)
+![Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%20hrs-blue)
 
 Working on it!  will soon appear i promise 
 You can view my coding activity and statistics on my WakaTime dashboard:
