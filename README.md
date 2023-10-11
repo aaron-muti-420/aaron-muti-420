@@ -1,4 +1,5 @@
 # Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Wings IVXX. Welcome to my open-source playground! :rocket:
+![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m always learning.
