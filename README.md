@@ -14,6 +14,9 @@
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-muti-420&show_icons=true&theme=radical)](https://github.com/aaron-muti-420/github-readme-stats)
 
+## Link to My Portfolio
+https://aaron-muti-420.github.io/MySite/
+
 ## Languages I Use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
