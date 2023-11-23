@@ -21,6 +21,15 @@ https://aaron-muti-420.github.io/MySite/
 ## Languages I Use
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+ <a href="https://git.io/streak-stats" align="middle">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aaron-muti-420&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+</p>
+
+
 ## My WakaTime Dashboard
 You can view my coding activity and statistics on my [WakaTime dashboard](https://wakatime.com/@aaron_muti_420).
 ![Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%20hrs-blue)
