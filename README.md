@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m always learning.
-- I'm Coachable and willing to Collaborate 
+- I'm Coachable and willing to Collaborate
+- Here to Learn From the Best 
 
 ## Technologies I Work With
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Machine Learning](https://img.shields.io/badge/machine%20learning-%2306B3E0.svg?style=for-the-badge) ![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%2302569B.svg?style=for-the-badge)
