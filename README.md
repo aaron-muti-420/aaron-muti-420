@@ -35,4 +35,4 @@ https://aaron-muti-420.github.io/MySite/
 You can view my coding activity and statistics on my [WakaTime dashboard](https://wakatime.com/@aaron_muti_420).
 ![Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%20hrs-blue)
 
-Work in progress! More updates coming soon. 😉
+Work in progress! More updates coming soon.. 😉
