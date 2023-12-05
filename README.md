@@ -36,3 +36,5 @@ You can view my coding activity and statistics on my [WakaTime dashboard](https:
 ![Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%20hrs-blue)
 
 Work in progress! More updates coming soon.. 😉
+
+[![wakatime](https://wakatime.com/badge/user/d3f30f78-f53d-40e2-91c0-de497d3d88b1/project/018ba9c5-331f-4f4a-bdd3-c81e2d054fea.svg)](https://wakatime.com/badge/user/d3f30f78-f53d-40e2-91c0-de497d3d88b1/project/018ba9c5-331f-4f4a-bdd3-c81e2d054fea)
