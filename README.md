@@ -20,6 +20,7 @@
 Coming Soon...................
 
 ## Languages I Use
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&theme=tokyonight">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
 <h1 align="center"> 🔥 Contributions </h1>
