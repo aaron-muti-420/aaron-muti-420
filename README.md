@@ -15,7 +15,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-muti-420&show_icons=true&theme=radical)](https://github.com/aaron-muti-420/github-readme-stats)
 
 ## Link to My Portfolio
-Coming Soon...................
+https://aaron-muti-420.github.io/
 
 ## Languages I Use
 
