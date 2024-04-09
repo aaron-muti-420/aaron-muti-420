@@ -10,18 +10,19 @@
 - I'm Coachable and willing to Collaborate
 - Here to Learn From the Best 
 
-## Technologies I Work With
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-## Currently Learning
+## Technologies I Currently Work With
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+
+## I have been Learning this lately 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-## GitHub Statistics 
+
+ ## GitHub Statistics 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-muti-420&show_icons=true&theme=radical)](https://github.com/aaron-muti-420/github-readme-stats)
 
 ## Link to My Portfolio
 https://aaron-muti-420.github.io/
 
-## Languages I Use
+## Languages im currently speaking 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
@@ -36,8 +37,5 @@ https://aaron-muti-420.github.io/
 </p>
 
 
-## My WakaTime Dashboard
-You can view my coding activity and statistics on my [WakaTime dashboard](https://wakatime.com/@aaron_muti_420).
-![Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%20hrs-blue)
 
 Work in progress! More updates coming soon.. 😉
