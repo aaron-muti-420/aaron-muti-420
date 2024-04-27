@@ -22,7 +22,7 @@
 ## Link to My Portfolio
 https://aaron-muti-420.github.io/
 
-## Languages im currently speaking 
+## Languages I'm currently speaking 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-muti-420&hide_progress=true)
 
@@ -38,4 +38,4 @@ https://aaron-muti-420.github.io/
 
 
 
-Work in progress! More updates coming soon.. 😉
+Work in progress! More updates are coming soon.. 😉
