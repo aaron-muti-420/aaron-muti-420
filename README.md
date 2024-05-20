@@ -6,8 +6,8 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m always learning.
-- I'm Coachable and willing to Collaborate
+- 🌱 I’m a lifelong learner.
+- I'm Coachable looking for mentorship and willing to Collaborate on opensource projects
 - Here to Learn From the Best 
 
 ## My Tech Stack ⚙️ 🧰
