@@ -1,6 +1,6 @@
-# Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+# Whats up! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 
-## Call me wings 💸 
+## It's Aaron here 
 
 #### Welcome to my open-source playground! :rocket:
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
