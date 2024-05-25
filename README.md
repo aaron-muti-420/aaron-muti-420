@@ -2,7 +2,7 @@
 
 ## It's Aaron here.....
 
-#### Welcome to my open-source playground! :rocket:
+### Welcome to my open-source playground! :rocket:
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
 
 - 🔭 I’m currently working on something cool.
