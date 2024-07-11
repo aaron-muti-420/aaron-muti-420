@@ -6,8 +6,8 @@
 ### Welcome to my open-source playground! :rocket:
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m a lifelong learner.
+- I’m currently working on something cool. 🔭
+- I’m a lifelong learner 🌱 
 - I'm Coachable looking for mentorship and willing to Collaborate on opensource projects
 - Here to Learn From the Best 
 
