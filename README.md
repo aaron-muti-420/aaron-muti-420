@@ -6,9 +6,9 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
 
 - I’m currently working on something cool. 🔭
-- I’m a lifelong learner 🌱 
-- I'm Coachable looking for mentorship and willing to Collaborate on opensource projects
-- Here to Learn From the Best 
+- Lifelong learner 🌱 
+- HMU for Collaboration on opensource projects
+- Zunda Technology Park
 
 ## My Tech Stack ⚙️ 🧰
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white)
