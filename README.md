@@ -1,8 +1,8 @@
 # Aaron Muti
 
-**Open-source developer · Zunda Technology Park**
+** Zunda Technology Park**
 
-> Currently building something cool 🔭 · Lifelong learner 🌱 · Open to OSS collaboration
+> 💡 Inovate🌱 
 
 ---
 
@@ -10,9 +10,8 @@
 
 | | |
 |---|---|
-| **Location** | Zunda Technology Park |
-| **Portfolio** | [aaronmuti.com](https://aaronmuti.com) |
-| **Collaboration** | Open to open-source contributions — reach out via portfolio |
+| **Location** | Zunda Technology Park 🚀|
+
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-420-blue?logo=GitHub)
 
